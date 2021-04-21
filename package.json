@@ -1,0 +1,22 @@
+{
+  "name": "gh-actions-example",
+  "version": "1.0.0",
+  "description": "Example usage of GH Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncronquist/gh-actions-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncronquist/gh-actions-example/issues"
+  },
+  "homepage": "https://github.com/ncronquist/gh-actions-example#readme",
+  "dependencies": {
+    "mocha": "^8.3.2"
+  }
+}
